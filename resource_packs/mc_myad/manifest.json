@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "potionArea",
+    "description": "myaddonStarter",
+    "uuid": "3109b324-8a79-44b7-9109-3526e210e292",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      130
+    ]
+  },
+  "modules": [
+    {
+      "description": "Add-on Pack Resources",
+      "type": "resources",
+      "uuid": "e8d12671-2aac-4d9b-a4ad-65d96bd0b9d4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "a1fde279-a94c-45d3-a0f5-83a70254ac0e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.15.3"
+      ]
+    }
+  }
+}
